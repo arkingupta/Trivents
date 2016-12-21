@@ -1,0 +1,11 @@
+{
+  "name": "Trivents",
+  "private": false,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "fb": "^1.1.1",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
