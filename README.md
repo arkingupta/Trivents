@@ -2,7 +2,7 @@
 
 Trivents is a one-stop web-application to manage and create Events.
 
-![Alt text](http://i.imgur.com/imqHIrK.png "Home Page" | width=300)
+<img src = "http://i.imgur.com/imqHIrK.png" width = 400>
 
 By creating an event on Trivents, you have the option of automatically making an event on Eventbrite, Google+, MeetUp etc. based on the information you submitted on Trivents. We can even retrieve information from a Facebook event (with just the URL) and post to all other social media platforms. We are, therefore, a one-stop event creator with free social marketing.
 
