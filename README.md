@@ -2,14 +2,23 @@
 
 Trivents is a one-stop web-application to manage and create Events.
 
+![Alt text](http://i.imgur.com/imqHIrK.png "Home Page")
+
 By creating an event on Trivents, you have the option of automatically making an event on Eventbrite, Google+, MeetUp etc. based on the information you submitted on Trivents. We can even retrieve information from a Facebook event (with just the URL) and post to all other social media platforms. We are, therefore, a one-stop event creator with free social marketing.
 
+![Alt text](http://i.imgur.com/QuowdB8.png "Create Event")
+
+Every event also has a unique QR code automatically generated.
+Trivents can also automatically pull events from Facebook in a
+given radius.
+
+[Alt text](http://i.imgur.com/ICCYkcG.png "Event Page")
 
 ###How to Run?
-After cloning this repository, within the directory - 
+After cloning this repository, within the directory -
 
 1) meteor npm install --save fb <br>
-2) meteor <br> 
+2) meteor <br>
 
 You can now see the application run on localhost:3000
 
