@@ -2,17 +2,17 @@
 
 Trivents is a one-stop web-application to manage and create Events.
 
-<img src = "http://i.imgur.com/imqHIrK.png" width = 400>
+<img src = "http://i.imgur.com/imqHIrK.png" width = 650>
 
 By creating an event on Trivents, you have the option of automatically making an event on Eventbrite, Google+, MeetUp etc. based on the information you submitted on Trivents. We can even retrieve information from a Facebook event (with just the URL) and post to all other social media platforms. We are, therefore, a one-stop event creator with free social marketing.
 
-![Alt text](http://i.imgur.com/QuowdB8.png "Create Event")
+<img src = "http://i.imgur.com/QuowdB8.png" width = 650>
 
 Every event also has a unique QR code automatically generated.
 Trivents can also automatically pull events from Facebook in a
 given radius.
 
-[Alt text](http://i.imgur.com/ICCYkcG.png "Event Page")
+<img src = "http://i.imgur.com/ICCYkcG.png" width =650>
 
 ###How to Run?
 After cloning this repository, within the directory -
